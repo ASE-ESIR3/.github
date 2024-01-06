@@ -14,7 +14,7 @@ For a more comprehensive and detailed description of the entire project, includi
 - **Description**: Stemming from our work on RobotML, LangiumProject is the project generated from xText.
 - **Technologies Used**: Langium, xText.
 
-### [CodeTests](https://github.com/ASE-ESIR3/CodeTests)
+### [CodeExamples](https://github.com/ASE-ESIR3/CodeExamples)
 - **Description**: CodeTests is a collection of tests for our own language. It serves as validation and demonstration of the capabilities of our developed specific language.
 - **Technologies Used**: Specific language developed.
 
